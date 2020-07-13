@@ -1,6 +1,6 @@
 ### Hi, I'm Rafael A.C 👋
 
-🤓 CTO at [@hedrosistemas](https://hedro.com.br) <br>
+🤓 Full Stack Engineer at [@hedrosistemas](https://hedro.com.br) <br>
 🇧🇷 Born in Minas Gerais, Brazil <br>
 
 ### Find me elsewhere 🌎
