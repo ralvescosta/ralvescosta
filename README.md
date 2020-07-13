@@ -1,10 +1,11 @@
 ### Hi, I'm Rafael A.C 👋
 
-🤓 Full Stack Engineer at [@hedrosistemas](https://hedro.com.br) <br>
-🇧🇷 Born in Minas Gerais, Brazil <br>
+:bulb: electrical engineer by [@IFMG](https://www.formiga.ifmg.edu.br/)
+🤓 Full Stack Engineer at [@Hedro](https://hedro.com.br) <br>
+🇧🇷 Living in Divinopolis, Minas Gerais, Brazil <br>
 
 ### Find me elsewhere 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/ralvescosta/) <br>
 📸 [Instagram](https://www.instagram.com/fael_bodao) <br>
-📫 [Email] rafael.rac.mg@gmail.com
+📫 rafael.rac.mg@gmail.com
