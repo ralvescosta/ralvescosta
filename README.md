@@ -32,6 +32,9 @@
 ![Jest](https://img.shields.io/badge/-Jest-c21325?style=flat-square&logo=jest)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+ <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=ralvescosta&show_icons=true" alt="ralvescosta"/> 
+ </p>
  
 ### Find me elsewhere 🌎
 
