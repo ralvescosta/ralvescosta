@@ -33,7 +33,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <p align="center">
- <img src=" https://github-readme-stats.vercel.app/api?username=ralvescosta&show_icons=true" alt="ralvescosta"/> 
+ <img src="https://github-readme-stats.vercel.app/api?username=ralvescosta&show_icons=true" alt="ralvescosta"/> 
  </p>
 
 https://github-readme-stats.vercel.app/api?username=ralvescosta&show_icons=true
