@@ -1,7 +1,7 @@
 ### Hi, I'm Rafael A.C 👋
 
 - :bulb: Electrical Engineer by [@IFMG](https://www.formiga.ifmg.edu.br/)
-- 🤓 Full Time Software Engineer at [DTI](https://www.dtidigital.com.br) <br>
+- 🤓 Full Time Software Engineer at [@DTI](https://www.dtidigital.com.br) <br>
 - 🤓 Part Time Software Engineer at [@Hedro](https://hedro.com.br) <br>
 - 🇧🇷 Living in Divinopolis, Minas Gerais, Brazil <br>
 
