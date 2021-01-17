@@ -13,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
 ![Go Lang](https://img.shields.io/badge/-Go%20Lang-e0ebf5?style=flat-square&logo=go)
-![C#](https://img.shields.io/badge/-C%23-2A0066?style=flat-square&logo=c%20sharp)
+![C#](https://img.shields.io/badge/-C%23-2A0066?style=flat-square&logo=c%20sharp&logoColor=2A0066)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -36,7 +36,7 @@
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![.NET]()
+![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net)
 
  <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=ralvescosta&show_icons=true&include_all_commits=true&count_private=true" alt="ralvescosta"/> 
