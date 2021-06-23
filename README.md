@@ -41,7 +41,7 @@
  </p>
  
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralvescosta&layout=compact" alt="languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralvescosta&layout=compact" alt="languages" />
  </p>
  
 ### Find me elsewhere 🌎
