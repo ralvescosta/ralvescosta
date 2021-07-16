@@ -2,7 +2,6 @@
 
 - :bulb: Electrical Engineer by [@IFMG](https://formiga.ifmg.edu.br/)
 - 🤓 Full Time Backend Engineer at [@Inmetrics](https://inmetrics.com.br) <br>
-- 🤓 Part Time Software Engineer at [@Hedro](https://hedro.com.br) <br>
 - 🇧🇷 Living in Divinopolis, Minas Gerais, Brazil <br>
 
 ### Technologies I work
