@@ -46,5 +46,4 @@
 ### Find me elsewhere 🌎
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ralvescosta/) <br>
-- 📸 [Instagram](https://www.instagram.com/fael_bodao) <br>
 - 📫 rafael.rac.mg@gmail.com
