@@ -75,8 +75,9 @@
  <a href="https://nodejs.org/en/" target="_blank">
     <img align="center" alt="nodejs" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
   </a>
-
 </div>
+
+<br>
 
  <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=ralvescosta&show_icons=true&include_all_commits=true&count_private=true" alt="ralvescosta"/> 
