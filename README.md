@@ -27,7 +27,7 @@
     <img align="center" alt="rust" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   </a>
  
- <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/ target="_blank">
+ <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
     <img align="center" alt="csharp" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
   </a>
  
