@@ -73,7 +73,7 @@
   </a>
 
  <a href="https://nodejs.org/en/" target="_blank">
-    <img align="center" alt="nodejs" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
+    <img align="center" alt="nodejs" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   </a>
 </div>
 
