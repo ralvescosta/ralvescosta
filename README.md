@@ -15,28 +15,27 @@
     <img align="center" alt="typescript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </a>
  
- <a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="center" alt="typescript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <a href="https://www.javascript.com/" target="_blank">
+    <img align="center" alt="javascript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
  
-  <a href="https://golang.org/" target="_blank">
+  <a href="https://go.dev/" target="_blank">
     <img align="center" alt="go" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   </a>
-
  
- <a href="https://golang.org/" target="_blank">
-    <img align="center" alt="go" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+ <a href="https://www.rust-lang.org/" target="_blank">
+    <img align="center" alt="rust" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   </a>
  
- <a href="https://www.google.com/search?q=csharp&oq=csharp&aqs=chrome..69i57j0i512l9.2252j0j4&sourceid=chrome&ie=UTF-8" target="_blank">
+ <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/ target="_blank">
     <img align="center" alt="csharp" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
   </a>
  
- <a href="https://www.google.com/search?q=html5&oq=html5&aqs=chrome..69i57j0i433i512j0i512l8.1029j0j9&sourceid=chrome&ie=UTF-8" target="_blank">
+ <a href="https://html.spec.whatwg.org/multipage/">
     <img align="center" alt="html5" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   </a>
 
-  <a href="https://www.google.com/search?q=css3&oq=css3&aqs=chrome..69i57j0i512l9.1659j0j9&sourceid=chrome&ie=UTF-8" target="_blank">
+  <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank">
     <img align="center" alt="css3" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   </a>
  
@@ -44,8 +43,8 @@
     <img align="center" alt="react" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
  
-  <a href="https://reactjs.org/" target="_blank">
-    <img align="center" alt="react" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native-original.svg">
+  <a href="https://reactnative.dev/" target="_blank">
+    <img align="center" alt="react-native" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   </a>
 
   <a href="https://www.docker.com/" target="_blank">
@@ -68,12 +67,12 @@
     <img align="center" alt="nodejs" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   </a>
  
- <a href="https://nodejs.org/en/" target="_blank">
-    <img align="center" alt="nodejs" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+ <a href="https://nestjs.com/" target="_blank">
+    <img align="center" alt="nestjs" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   </a>
 
- <a href="https://nodejs.org/en/" target="_blank">
-    <img align="center" alt="nodejs" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
+ <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img align="center" alt="dotnet" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   </a>
 </div>
 
