@@ -62,6 +62,10 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img align="center" alt="postgresql" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   </a>
+  
+  <a href="https://redis.io/" target="_blank">
+    <img align="center" alt="redis" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  </a>
 
   <a href="https://nodejs.org/en/" target="_blank">
     <img align="center" alt="nodejs" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
