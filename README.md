@@ -93,5 +93,5 @@
 ### Find me elsewhere 🌎
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ralvescosta/) <br>
+- 📫 [Email](rafael.rac.mg@gmail.com)
 - 📝 [Medium](https://ralvescosta.medium.com/)
-- 📫 rafael.rac.mg@gmail.com
