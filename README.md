@@ -1,7 +1,7 @@
 ### Hi, I'm Rafael A.C 👋
 
 - :bulb: Electrical Engineer by [@IFMG](https://formiga.ifmg.edu.br/)
-- 🤓 Full Time Backend Engineer at [@Inmetrics](https://inmetrics.com.br) <br>
+- 🤓 Full Time Backend Engineer at [@Avenue](https://materiais.avenue.us/) <br>
 - 🇧🇷 Living in Divinopolis, Minas Gerais, Brazil <br>
 
 ### Technologies I work
