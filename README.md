@@ -10,21 +10,21 @@
   <a href="https://git-scm.com/" target="_blank">
     <img align="center" alt="git" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </a>
- 
-   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="center" alt="typescript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  </a>
- 
- <a href="https://www.javascript.com/" target="_blank">
-    <img align="center" alt="javascript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
- 
+   
   <a href="https://go.dev/" target="_blank">
     <img align="center" alt="go" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   </a>
  
- <a href="https://www.rust-lang.org/" target="_blank">
+   <a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="center" alt="typescript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  </a>
+  
+   <a href="https://www.rust-lang.org/" target="_blank">
     <img align="center" alt="rust" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  </a>
+ 
+ <a href="https://www.javascript.com/" target="_blank">
+    <img align="center" alt="javascript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
  
  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
