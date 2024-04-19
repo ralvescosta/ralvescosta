@@ -1,6 +1,6 @@
 ### Hi, I'm Rafael A.C 👋
 
-- :bulb: Electrical Engineer by [@IFMG](https://formiga.ifmg.edu.br/)
+- :bulb: Software Enginner by [@PUCMG](https://www.pucminas.br/)
 - 🤓 Full Time Backend Engineer at [@Hedro](https://hedro.com.br) <br>
 - 🇧🇷 Living in Divinopolis, Minas Gerais, Brazil <br>
 
