@@ -72,7 +72,7 @@
   </a>
  
  <a href="https://nestjs.com/" target="_blank">
-    <img align="center" alt="nestjs" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+    <img align="center" alt="nestjs" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
   </a>
 
  <a href="https://dotnet.microsoft.com/" target="_blank">
