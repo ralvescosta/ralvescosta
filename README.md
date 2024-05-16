@@ -16,7 +16,7 @@
   </a>
   
   <a href="https://www.rust-lang.org/" target="_blank">
-    <img align="center" alt="rust" height="25" width="30" src="https://www.rust-lang.org/logos/rust-logo-blk.svg">
+    <img align="center" alt="rust" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   </a>
  
    <a href="https://www.typescriptlang.org/" target="_blank">
