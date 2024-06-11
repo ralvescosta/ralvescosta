@@ -1,7 +1,7 @@
 ### Hi, I'm Rafael A.C 👋
 
 - :bulb: Software Enginner by [@PUCMG](https://www.pucminas.br/)
-- 🤓 Full Time Backend Engineer at [@Hedro](https://hedro.com.br) <br>
+- 🤓 Full Time Backend Engineer at Costa Consulting LTDA <br>
 - 🇧🇷 Living in Divinopolis, Minas Gerais, Brazil <br>
 
 ### Technologies I work
