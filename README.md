@@ -46,34 +46,6 @@
   <a href="https://redis.io/" target="_blank">
     <img align="center" alt="redis" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   </a>
- 
-   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="center" alt="typescript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  </a>
- 
- <a href="https://www.javascript.com/" target="_blank">
-    <img align="center" alt="javascript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
- 
- <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-    <img align="center" alt="csharp" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
-  </a>
- 
- <a href="https://html.spec.whatwg.org/multipage/">
-    <img align="center" alt="html5" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  </a>
-
-  <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank">
-    <img align="center" alt="css3" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  </a>
- 
-  <a href="https://reactjs.org/" target="_blank">
-    <img align="center" alt="react" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </a>
- 
-  <a href="https://reactnative.dev/" target="_blank">
-    <img align="center" alt="react-native" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  </a>
 
   <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" alt="mongodb" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -85,14 +57,6 @@
 
   <a href="https://nodejs.org/en/" target="_blank">
     <img align="center" alt="nodejs" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  </a>
- 
- <a href="https://nestjs.com/" target="_blank">
-    <img align="center" alt="nestjs" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
-  </a>
-
- <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img align="center" alt="dotnet" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   </a>
 </div>
 
