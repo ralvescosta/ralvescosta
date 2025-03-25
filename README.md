@@ -18,6 +18,34 @@
   <a href="https://www.rust-lang.org/" target="_blank">
     <img align="center" alt="rust" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img align="center" alt="docker" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  </a>
+
+  <a href="https://kubernetes.io/" target="_blank">
+    <img align="center" alt="k8s" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
+  </a>
+
+  <a href="https://helm.sh/" target="_blank">
+    <img align="center" alt="helm" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg">
+  </a>
+
+  <a href="https://www.terraform.io/" target="_blank">
+    <img align="center" alt="terraform" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">
+  </a>
+
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img align="center" alt="aws" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img align="center" alt="postgresql" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  </a>
+  
+  <a href="https://redis.io/" target="_blank">
+    <img align="center" alt="redis" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  </a>
  
    <a href="https://www.typescriptlang.org/" target="_blank">
     <img align="center" alt="typescript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -47,24 +75,12 @@
     <img align="center" alt="react-native" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   </a>
 
-  <a href="https://www.docker.com/" target="_blank">
-    <img align="center" alt="docker" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  </a>
-
   <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" alt="mongodb" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   </a>
 
   <a href="https://www.mysql.com/" target="_blank">
     <img align="center" alt="mysql" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img align="center" alt="postgresql" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  </a>
-  
-  <a href="https://redis.io/" target="_blank">
-    <img align="center" alt="redis" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   </a>
 
   <a href="https://nodejs.org/en/" target="_blank">
